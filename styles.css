@@ -1,0 +1,12 @@
+@media(min-width:720px){
+#navbar{
+      position:fixed;
+      top:0;
+}
+main{
+        position:absolute;
+        left:250px;
+        border-left:2px solid black;
+        padding-left:15px;
+}
+}
